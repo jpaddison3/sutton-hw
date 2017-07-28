@@ -1,0 +1,2 @@
+* Reinforcement Learning Practice
+In which I mess around implementing policy iteration (and maybe more) in python
